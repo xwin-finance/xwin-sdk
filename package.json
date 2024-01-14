@@ -14,7 +14,7 @@
     "dist"
   ],
   "keywords": [],
-  "author": "",
+  "author": "h3w8529@gmail.com",
   "license": "ISC",
   "devDependencies": {
     "@types/cli-progress": "^3.11.5",
@@ -33,5 +33,13 @@
   "dependencies": {
     "ethers": "^6.10.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xwin-finance/xwin-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xwin-finance/xwin-sdk/issues"
+  },
+  "homepage": "https://github.com/xwin-finance/xwin-sdk#readme",
   "description": ""
 }
